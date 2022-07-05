@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marina-baiardi
 - 👀 I’m interested in learning and growing professionally
 - 🌱 I’m currently learning Flutter, Javascript and React JS
-- 💞️ I’m looking to collaborate on the growth of the company and the resolution of problems
+- 💞️ My skills: HTML, CSS, Javascript & Flutter
 - 📫 How to reach me: personal mail marina.baiardi@hotmail.com
 
 <!---
