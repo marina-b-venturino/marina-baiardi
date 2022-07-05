@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marina-baiardi
 - 👀 I’m interested in learning and growing professionally
 - 🌱 I’m currently learning Flutter, Javascript and React JS
-- 💞️ My skills: HTML, CSS, Javascript & Flutter
+- 💞️ My skills: HTML, CSS, Sass, Bootstrap, Javascript, Flutter, Git, Adobe XD, Figma, Visual Studio Code, Trello, Jira, GitLab & GitHub
 - 📫 How to reach me: personal mail marina.baiardi@hotmail.com
 
 <!---
