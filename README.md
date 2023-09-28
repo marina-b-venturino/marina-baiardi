@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marina-baiardi I like to work in a team and I consider myself a person with a high sense of responsibility, honesty, solidarity and punctuality. I have a great desire to improve and motivation to perfect skills. I have growth expectations to become a great professional
+- 👋 Hi, I’m @marina-b-venturino I like to work in a team and I consider myself a person with a high sense of responsibility, honesty, solidarity and punctuality. I have a great desire to improve and motivation to perfect skills. I have growth expectations to become a great professional
 - 👀 I’m interested in learning and growing professionally
 - 🌱 I’m currently learning Flutter, Javascript and React JS
 - 💞️ My skills: HTML, CSS, Sass, Bootstrap, Javascript, Flutter, Git, Adobe XD, Figma, Visual Studio Code, Trello, Jira, GitLab & GitHub
